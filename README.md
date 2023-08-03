@@ -1,5 +1,5 @@
 # car_selling_price_predector
-predict the selling price of any car acc. to present time.
+predict the selling price of any car according to present time.
 
 
 * we have made the api using flask.
